@@ -55,7 +55,7 @@ except ImportError:
 
 # Application Configuration
 APP_VERSION = "1.0.5"
-UPDATE_SERVER_URL = "https://YOUR-GITHUB-USERNAME.github.io/monster-tool-updates"  # Replace with your GitHub Pages URL
+UPDATE_SERVER_URL = "https://gitousshub.github.io/monster-tool-updates"  # Replace with your GitHub Pages URL
 APP_NAME = "Monster Soul Retrieval Tool"
 
 class AutoUpdater:
@@ -6330,3 +6330,4 @@ if __name__ == "__main__":
     
     app = MonsterRetrievalTool()
     app.run()
+
