@@ -54,7 +54,7 @@ except ImportError:
     LICENSE_SYSTEM_AVAILABLE = False
 
 # Application Configuration
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.0.5"
 UPDATE_SERVER_URL = "https://YOUR-GITHUB-USERNAME.github.io/monster-tool-updates"  # Replace with your GitHub Pages URL
 APP_NAME = "Monster Soul Retrieval Tool"
 
