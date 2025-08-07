@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.5",
   "changelog": "• Added auto-update support for packaged executable\n• Enhanced license system integration\n• Improved UI and performance\n• Bug fixes and stability improvements",
-  "download_url": https://github.com/gitousshub/monster-tool-updates/releases/download/v1.0.5/MonsterSoulRetrieval.exe,
+  "download_url": "https://github.com/gitousshub/monster-tool-updates/releases/download/v1.0.5/MonsterSoulRetrieval.exe",
   "release_date": "2025-08-07",
   "minimum_version": "1.0.0",
   "notes": "This version adds full support for executable auto-updates. Users can now update directly from within the app without re-downloading manually."
